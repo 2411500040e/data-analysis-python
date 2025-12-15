@@ -1,1 +1,2 @@
-# data-analysis-python
+# Data Analysis with Python
+Exploratory Data Analysis menggunakan Python.
